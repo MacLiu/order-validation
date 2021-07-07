@@ -1,10 +1,13 @@
 appnope==0.1.0
+asgiref==3.4.1
 beautifulsoup4==4.7.1
 bleach==1.5.0
 certifi==2019.3.9
 chardet==3.0.4
 decorator==4.0.11
-Django==2.1.4
+Django==2.2
+django-enumchoicefield==2.0.0
+djangorestframework==3.12.4
 entrypoints==0.2.2
 enum34==1.1.6
 html5lib==0.9999999
@@ -48,6 +51,7 @@ simplegeneric==0.8.1
 six==1.10.0
 soupsieve==1.9
 South==1.0.2
+sqlparse==0.4.1
 stevedore==1.30.1
 tensorflow==1.4.0
 tensorflow-tensorboard==0.4.0rc3
@@ -55,6 +59,7 @@ terminado==0.6
 testpath==0.3
 tornado==4.5.1
 traitlets==4.3.2
+typing-extensions==3.10.0.0
 urllib3==1.24.1
 virtualenv==16.1.0
 virtualenv-clone==0.5.3
